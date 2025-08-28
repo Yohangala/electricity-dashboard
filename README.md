@@ -25,7 +25,6 @@ An interactive web dashboard built with Streamlit and Pandas to analyze and visu
   * **Trend Analysis:** A line chart visualizing total electricity consumption over time to identify seasonal patterns.
   * **Customer Segmentation:** A bar chart identifying the top consumers based on their total bill amount.
   * **Data Explorer:** An interactive table that allows for viewing and sorting the raw, underlying data.
-  * **Secure Cloud Connectivity:** Uses Streamlit's secrets management to securely connect to a cloud-hosted MySQL database (PlanetScale).
 
 -----
 
