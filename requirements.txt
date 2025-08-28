@@ -1,5 +1,8 @@
-python-dotenv
-mysql-connector-python
+streamlit
 pandas
+mysql-connector-python
+python-dotenv
 Faker
 numpy
+matplotlib
+seaborn
